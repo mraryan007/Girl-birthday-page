@@ -8,4 +8,4 @@ A beautiful, interactive mini website I built to celebrate my girlfriend’s spe
 ✨ Anyone can use this project to create a unique online birthday greeting for their loved one!
 
 🚀 Live Demo
-https://mraryan007.github.io/Girl-birthday-page/cause.html
+https://mraryan007.github.io/Dramatic-Girl/
